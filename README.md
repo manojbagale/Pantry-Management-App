@@ -1,10 +1,11 @@
-This is an inventory managent app built with Nextjs where users upload images and they are classified using Artificial intelligence
+Inventory Management App
+An intuitive inventory management application built with Next.js, featuring image upload and AI-powered classification.
 
-## Getting Started
+Getting Started
+To start the development server, run one of the following commands:
 
-First, run the development server:
-
-```bash
+bash
+Copy code
 npm run dev
 # or
 yarn dev
@@ -12,17 +13,11 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+Open http://localhost:3000 in your browser to view the app. You can start making changes by editing app/page.js, and the page will automatically update as you modify the file.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project leverages next/font to optimize and load Inter, a custom Google Font.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Deployment on Vercel
+Deploy your Next.js application effortlessly using the Vercel Platform, developed by the creators of Next.js.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For more detailed instructions, check out the Next.js deployment documentation.
