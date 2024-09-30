@@ -1,4 +1,4 @@
-# Pantry Tracker App 🍞
+# Pantry Management Application
 
 ## Overview
 
