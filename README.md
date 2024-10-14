@@ -4,6 +4,10 @@
 
 The Pantry Tracker Application is a web-based tool designed to help users manage their pantry items efficiently. It allows users to add, remove, and update the quantities of items in their pantry. This application leverages Next.js for the frontend, Material UI for UI components, and Firebase for backend services, ensuring a seamless and interactive user experience.
 
+## Screenshots
+
+![Screenshot (166)](https://github.com/user-attachments/assets/a3108d8f-9d47-4d0b-a583-a6e97bd4d13a)
+![Screenshot (165)](https://github.com/user-attachments/assets/487795ab-3483-4c2e-a596-36512b63cf86)
 
 
 ## Technologies Used
